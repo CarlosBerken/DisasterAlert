@@ -84,6 +84,12 @@ footer {
   margin-top: 1%;
 }
 
+.ponti-map {
+  background-image: url("./img/ponti_map.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .nav {
   display: flex;
   width: auto;
