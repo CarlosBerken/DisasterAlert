@@ -53,6 +53,7 @@ footer {
 .section-org {
   display: flex;
   align-items: center;
+  padding-top: 5%;
 }
 
 .section-map {
