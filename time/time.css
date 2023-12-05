@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+body {
+  background-color: #2b2b2b;
+  background-image: url("../img/Earth.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 26px;
+  color: #9966cc;
+  align-items: center;
+  display: flex;
+  margin: 0;
+  padding-left: 40%;
+}
+
+li {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+.name-link {
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.link-git {
+  width: 15%;
+  height: 15%;
+  margin-right: 5%;
+}
+
+.top {
+  margin-top: 2%;
+}
+
+.div-person {
+  display: flex;
+  align-items: center;
+}
+
+.border-circle {
+  border-radius: 50%;
+  width: 13%;
+  height: 13%;
+  padding: 1.2%;
+}
+
+.button_home {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  color: #9966cc;
+  padding-left: 1%;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.img-voltar {
+  width: 28%;
+  height: 28%;
+}
+
+::-webkit-scrollbar {
+  width: 14px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9966cc;
+  border-radius: 10px;
+}
