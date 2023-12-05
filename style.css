@@ -60,6 +60,8 @@ footer {
   margin: 0;
   margin-left: 10%;
   margin-top: 2%;
+  width: 28%;
+  height: 28%;
   display: flex;
 }
 
